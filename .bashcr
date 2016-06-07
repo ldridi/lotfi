@@ -1,0 +1,1 @@
+alias php5='php.ORIG.5_4 -c /usr/local/lib/php.ini-2'

@@ -1,0 +1,12 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_host: troisfoubnnews.mysql.db
+    database_port: null
+    database_name: troisfoubnnews
+    database_user: troisfoubnnews
+    database_password: Fourchette1
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    secret: 302da09134c9ff5eadf2d163f533d69df6512bf9
